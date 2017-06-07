@@ -1,4 +1,4 @@
-###Code Book For run_analysis.R###
+### Code Book For run_analysis.R
 
 The purpose of this project is to collect, work and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
